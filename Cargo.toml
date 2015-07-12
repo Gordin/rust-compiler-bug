@@ -1,0 +1,4 @@
+[package]
+name = "compiler-bug"
+version = "0.1.0"
+authors = ["Gordin <9ordin@gmail.com>"]
